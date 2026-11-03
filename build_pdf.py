@@ -7,7 +7,7 @@ from pathlib import Path
 
 HERE = Path(__file__).resolve().parent
 SHOTS = HERE / "screenshots"
-OUT = HERE / "Lab7_S24CSEU1037_Avni_Saini.pdf"
+OUT = HERE / "SCSE3040_P07_S24CSEU1037.pdf"
 CHROME = "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome"
 
 LAB_DATE = sys.argv[1] if len(sys.argv) > 1 else "27 October 2026"
