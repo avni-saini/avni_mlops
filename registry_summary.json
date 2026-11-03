@@ -1,0 +1,8 @@
+{
+  "model_name": "delivery-time-model",
+  "version": 1,
+  "stage": "Production",
+  "run_id": "f6618f96dc2b425b95a2233869066f03",
+  "mae_minutes": 2.427,
+  "port": 5001
+}
